@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.log{
+    width: 700px;
+    height: 2500px;
+    float: right;
+    margin-right: -300px;
+    background-color: white;
+    position: relative;
+}
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    overflow: hidden;
+}
+.log .tamo{
+    height: 70px;
+    position: relative;
+    top: 217px;
+    left: 97px;
+}
+.log .vardas{
+    padding: 5px 5px;
+    border: 1px solid rgb(53, 146, 204);
+    position: absolute;
+    margin-top: 315px;
+    height: 20px;
+    width: 316px;
+    margin-left: -160px;
+    outline: 0;
+}
+.log input::placeholder{
+    font-size: 15px;
+    opacity: 85%;
+}
+.log input:hover{
+    background-color: rgba(1, 195, 195, 0.1);
+}
+.log .slap{
+    padding: 5px 5px;
+    border: 1px solid rgb(53, 146, 204);
+    position: absolute;
+    margin-top: 358px;
+    height: 20px;
+    width: 316px;
+    margin-left: -160px;
+    outline: 0;
+}
+.log .login{
+    position: absolute;
+    font-family: arial;
+    background-color: #63ceb3;
+    color: white;
+    width: 328px;
+    padding: 9px 5px;
+    text-align: center;
+    margin-top: 406px;
+    margin-left: -160px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.log .login:hover{
+    background-color: #7be0c7;
+}
+.log .neturiText{
+    font-family: 'roboto';
+    font-size: 15px;
+    position: absolute;
+    margin-top: 377px;
+    margin-left: 29px;
+    color: rgb(107, 107, 107);
+}
+.log .neturiText a{
+    color: rgb(25, 162, 207);
+}
+.log .neturiText a:hover{
+    text-decoration: underline;
+}
+.line{
+    height: .25px;
+    width: 330px;
+    background-color: lightgrey;
+    opacity: 80%;
+    position: absolute;
+
+}
+.A{
+    margin-left: 29px;
+    margin-top: 412px;
+}
+.log .nepavyksta{
+    position: absolute;
+    font-family: arial ;
+    color: rgb(25, 162, 207);
+    margin-top: 490px;
+    font-size: 15px;
+    margin-left: -160px;
+}
+.log .nepavyksta:hover{
+    text-decoration: underline;
+}
+.log .forgor{
+    position: absolute;
+    color: rgb(107, 107, 107);
+    font-family: arial;
+    margin-left: -160px;
+    margin-top: 510px;
+    font-size: 15px;
+}
+.log .forgor:hover{
+    text-decoration: underline;
+}
+.B{
+    margin-top: 473px;
+    margin-left: 29px;
+}
+.log .prisijungtiSu{
+    position: absolute;
+    font-weight: bold;
+    font-size: 14.5px;
+    margin-left: 146px;
+    font-family: arial;
+    margin-top: 492px;
+    color: rgb(107, 107, 107);
+}
+.log .dalykai{
+    position: absolute;
+    margin-left: -112px;
+    margin-top: 606px;
+    height: 55px;
+}
+.C{
+    margin-top: 604px;
+    margin-left: 29px;
+}
+.log .copyright{
+    text-align: center;
+    font-family: arial;
+    font-size: 12px;
+    color: rgb(134, 134, 134);
+    margin-left: -315px;
+    margin-top: 621.5px;
+    line-height: 16px;
+}
+.reklama{
+    width: 1480px;
+    position: absolute;
+    cursor: pointer;
+}
